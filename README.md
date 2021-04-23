@@ -7,7 +7,7 @@ I'm a master student researcher at the Barcelona Supercomputing Center working o
 
 - ... working on scoring functions using algebraic graphs and AI 💻
 - ... and also on generative models for _de novo_ drug design 💊
-- ... studying a Master of Data Science and a Postgraduate Course on Deep Learning @UPC 📚
+- ... studying a Master of Data Science @UPC 📚
 
 
 
