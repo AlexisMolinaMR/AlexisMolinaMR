@@ -1,13 +1,14 @@
 ### Hi there 👋
 
 
-I'm a master student researcher at the Barcelona Supercomputing Center working on drug discovery and design. Machine and deep learning techniques and their applications in biology and healthcare are my main interests but I also enjoy teaching and writing articles for scientific communication!
+I'm an AI specialist doing research at the Barcelona Supercomputing Center and developing cool stuff at Nostrum Biodiscovery. I work on the verge of AI and biology trying to tackle a wide range of problems on the fields of drug discovery and design and enzyme engineering. Machine and deep learning techniques and their applications in biology and healthcare are my main interests but I also enjoy teaching and writing articles for scientific communication!
 
 ### Currently...
 
-- ... working on scoring functions using algebraic graphs and AI 💻
-- ... and also on generative models for _de novo_ drug design 💊
-- ... studying a Master of Data Science @UPC 📚
+- ... working on scoring functions for ligand using algebraic graphs and AI 💻
+- ... ligand property predictions :diamonds:
+- ... and also on generative models for _de novo_ drug and enzyme design 💊
+- ... sequence-based PPI predictions :twisted_rightwards_arrows:
 
 
 
